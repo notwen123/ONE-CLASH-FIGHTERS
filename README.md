@@ -378,8 +378,8 @@ npm install
 3. **Configure environment (optional)**
 ```bash
 # Create .env.local file
-NEXT_PUBLIC_PACKAGE_ID=your_package_id
-NEXT_PUBLIC_TOURNAMENT_POOL_ID=your_pool_id
+NEXT_PUBLIC_PACKAGE_ID=0x33339ae0dbf1d8805eb1413639455b1428484d282c0bdcbe15d1b88921e00f65
+
 ```
 
 4. **Run development server**
