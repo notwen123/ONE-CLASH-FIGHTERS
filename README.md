@@ -1,4 +1,4 @@
-# 🥊 ONE CLASH FIGHTERS
+# 🥊 ONE CLASH FIGHTERS:
 
 > **A blockchain-powered retro fighting game on OneChain**  
 > Play-to-Earn • NFT Fighters • On-Chain Battles • Tournament Staking
