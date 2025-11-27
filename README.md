@@ -37,6 +37,17 @@
 - 🔗 **Fully Decentralized**: All game logic secured by smart contracts
 
 ---
+## Gallery 
+<img width="1915" height="935" alt="image" src="https://github.com/user-attachments/assets/88cbb6eb-d212-4874-87fc-59611fd99b62" />
+<img width="1911" height="941" alt="image" src="https://github.com/user-attachments/assets/dc62f26a-30a9-43b4-bc99-8da1cfbc7872" />
+<img width="1905" height="940" alt="image" src="https://github.com/user-attachments/assets/9da10c0b-43b0-4e1e-a0ff-81422be7ae9e" />
+<img width="1654" height="936" alt="image" src="https://github.com/user-attachments/assets/173e8f29-56d6-47c3-b23d-2546275e695f" />
+<img width="1232" height="924" alt="image" src="https://github.com/user-attachments/assets/236f4105-1658-45f3-9ef7-37f8d2bdd497" />
+<img width="1914" height="945" alt="image" src="https://github.com/user-attachments/assets/87b76613-c5f0-4802-9485-c87a67fa0e8a" />
+<img width="1912" height="943" alt="image" src="https://github.com/user-attachments/assets/92ebfff9-b8bd-4b4f-b53a-c3fc6169b3ff" />
+<img width="1910" height="942" alt="image" src="https://github.com/user-attachments/assets/cf2168f9-26cc-4e12-aebc-9b31699ae24f" />
+<img width="1781" height="1021" alt="image" src="https://github.com/user-attachments/assets/0c98efc2-b239-4b99-8ba2-f5a1aa892cb9" />
+
 
 ## 🌟 Game Features
 
