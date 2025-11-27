@@ -1,3 +1,5 @@
+<img width="1052" height="354" alt="image" src="https://github.com/user-attachments/assets/f86be703-63a0-4fd6-9462-a7781e3d6e61" />
+
 # 🥊 ONE CLASH FIGHTERS:
 
 > **A blockchain-powered retro fighting game on OneChain**  
